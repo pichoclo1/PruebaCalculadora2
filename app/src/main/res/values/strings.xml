@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="btn1">Boton Mensaje</string>
+    <string name="btn2">Boton Toast</string>
+    <string name="btn3">Boton Intnt</string>
+    <string name="btnAnt">Boton Anterior</string>
+
+</resources>
